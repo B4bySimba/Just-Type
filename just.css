@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+canvas {
+  background: #eee;
+  background-image: url("gr.png");
+  display: block;
+}
+
+.btn-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
